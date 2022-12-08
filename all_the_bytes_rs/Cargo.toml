@@ -1,5 +1,5 @@
 [package]
-name = "rust_nightly_crate_rs"
+name = "all_the_bytes_rs"
 version = "0.0.3"
 edition = "2021"
 license = "MIT OR Apache-2.0"
@@ -8,8 +8,8 @@ authors = [
   "onestacked <chrisi.schrefl@gmail.com>",
 ]
 description = "TODO: Crate description"
-homepage = "https://github.com/raldone01/rust_nightly_crate_rs"
-repository = "https://github.com/raldone01/rust_nightly_crate_rs"
+homepage = "https://github.com/raldone01/all_the_bytes_rs"
+repository = "https://github.com/raldone01/all_the_bytes_rs"
 categories = ["no-std", "rust-patterns"]
 keywords = []
 

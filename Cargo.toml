@@ -1,2 +1,2 @@
 [workspace]
-members = ["rust_nightly_crate_rs"]
+members = ["all_the_bytes_rs"]

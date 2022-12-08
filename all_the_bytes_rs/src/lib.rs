@@ -16,7 +16,7 @@ This crate requires a nightly compiler.
   - [ ] `<crate_name>/Cargo.toml` update keys
 * [ ] Update `README.md` (Badges and text)
 * [ ] Copy `README.md` to `<create_name>/src/lib.rs`
-* [ ] Search for `TODO`, `raldone01`, `rust_nightly_crate_rs` and `rust_nightly_crate_rs_template`
+* [ ] Search for `TODO`, `raldone01`, `all_the_bytes_rs` and `all_the_bytes_rs`
 
    (<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>F</kbd> in vscode)
 * [ ] Tag releases with `v<d>.<d>.<d>` and push the tag.
@@ -30,7 +30,7 @@ TODO: Crate description here
 ## Example
 
 ```rust
-use rust_nightly_crate_rs::gen_hello_world;
+use all_the_bytes_rs::gen_hello_world;
 
 // TODO: Update this example
 println!("{}", gen_hello_world());
